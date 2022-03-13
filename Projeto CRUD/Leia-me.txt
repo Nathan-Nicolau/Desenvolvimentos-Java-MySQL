@@ -1,0 +1,10 @@
+--mysql-connector-java-5.1.47--
+
+Esse driver deve estar relacionado na biblioteca da aplicação
+para realizar a conexão com o BD.
+
+--Banco01--
+Script do Banco de Dados relacionado ao CRUD - FormulárioSimples
+
+--Usuário e senha da aplicação--
+Nathan    910927
